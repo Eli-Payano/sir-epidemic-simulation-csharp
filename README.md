@@ -35,5 +35,7 @@ Proyecto_Epidemia_Final/
 3. Para ejecutar cualquier versión, navegue a la carpeta correspondiente e ingrese `dotnet run`.
 4. El programa ejecutará las pruebas de estrés automáticamente, exportando el CSV y los fotogramas en su propio directorio.
 
+![Demostración Side-by-Side](Animaciones/demo_simulacion.gif)
+
 ---
 *Desarrollado como proyecto de validación de calidad de software, reducción paralela e ingeniería de rendimiento.*
